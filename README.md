@@ -14,6 +14,7 @@ This repository collects lecture notes on Cryptography that are publicly accessi
 - [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/) from Alfred J. Menezes, Paul C. van Oorschot and Scott A. Vanstone
 - [Foundations of Cryptography 89-856](http://u.cs.biu.ac.il/~lindell/89-856/complete-89-856.pdf) by Yehuda Lindell
 - [Introduction to Reliable and Secure Distributed Programming](https://github.com/ChrisLinn/chrislinn.ink/tree/master/res/IntroductionToReliableAndSecur_Book_2011.pdf)
+- [Isis Agora Lovecruft's list](https://github.com/isislovecruft/library--/tree/master/cryptography%20%26%20mathematics)
 - [Crypto 101](https://github.com/crypto101/book)
 - [Intuitive Advanced Cryptography](https://github.com/cryptosubtlety/intuitive-advanced-cryptography)
 - [Privacy for identities](https://github.com/crypto-cypher/privacy-for-identities/)
@@ -45,7 +46,6 @@ This repository collects lecture notes on Cryptography that are publicly accessi
 ## Misc
 
 - [awesome-cryptography](https://github.com/sobolevn/awesome-cryptography), with books, courses, blogs... included
-- [Isis Agora Lovecruft's list](https://github.com/isislovecruft/library--/tree/master/cryptography%20%26%20mathematics)
 - [awesome-crypto-papers](https://github.com/pFarb/awesome-crypto-papers)
 - [Quadralay's Cryptography Archive](https://www.austinlinks.com/Crypto/)
 - https://intensecrypto.org/public/index.html
