@@ -54,5 +54,5 @@ This repository collects lecture notes on Cryptography that are publicly accessi
 - [From Zero (Knowledge) to Bulletproofs](https://github.com/AdamISZ/from0k2bp)
 - [Resources for Getting Started with MPC](http://u.cs.biu.ac.il/~lindell/MPC-resources.html) by Yehuda Lindell
 - [awesome-mpc](https://github.com/rdragos/awesome-mpc)
-- [awesome-differential-privacy](https://github.com/menisadi/awesome-differential-privacy), with books, codes... included 
+- [awesome-differential-privacy](https://github.com/menisadi/awesome-differential-privacy), with books, codes, blogs... included 
 - https://tlu.tarilabs.com/cryptography/cryptography.html
